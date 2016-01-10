@@ -1,0 +1,14 @@
+body{
+background: red;
+}
+#frame{
+	border:2px solid black;
+	width:500px;
+	height:500px;
+	float: center;
+}
+#pic{
+	border:1px;
+	width:100px;
+	height:20px;
+}
